@@ -9,7 +9,7 @@ Single-file static site (`index.html`) — no build step, no dependencies to ins
 Once GitHub Pages is enabled for this repo (see below), the site will be available at:
 
 ```
-https://<your-github-username>.github.io/<repo-name>/
+https://sky_paras.github.io/Paras Saini — Portfolio/
 ```
 
 ## How to run locally
